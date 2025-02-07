@@ -1,5 +1,7 @@
 # Excel-PowerBI
 
+Designed to enhance data-driven decision-making with dynamic insights and real-time analytics.
+
 You can download the datasets that i have used from excel file.
 You can checkout dashboards made by me in pdf file.
 
