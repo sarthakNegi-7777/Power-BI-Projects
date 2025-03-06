@@ -6,12 +6,9 @@ Designed to enhance data-driven decision-making with dynamic insights and real-t
 
 -> You can checkout dashboards made by me in powerbi/pdf folder.
 
-Till now i have made two projects :
+Till now i have made four projects :
 
 1)  Amazon Sales
 2)  Virat Kohli Stats
-
-added some new files :
-
 3) Call Center
 4) Customer Retention
