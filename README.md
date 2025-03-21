@@ -8,7 +8,8 @@ Designed to enhance data-driven decision-making with dynamic insights and real-t
 
 Till now i have made four projects :
 
-1)  Amazon Sales
-2)  Virat Kohli Stats
+1) Amazon Sales
+2) Virat Kohli Stats
 3) Call Center
 4) Customer Retention
+5) Diversity Inclusion
